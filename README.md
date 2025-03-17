@@ -14,7 +14,6 @@ This repository contains an implementation of a **B-Tree** in C, a self-balancin
 - [Code Structure](#code-structure)
 - [Functions Explained](#functions-explained)
 - [Compilation and Execution](#compilation-and-execution)
-- [Debugging with GDB](#debugging-with-gdb)
 - [Example Usage](#example-usage)
 - [Potential Issues](#potential-issues)
 - [References](#references)
